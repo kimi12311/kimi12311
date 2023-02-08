@@ -10,12 +10,6 @@
 
 💬 Ask me about any of my repositories if you'd like
 
-
-
-
-![soitta](/lOGO.png)
-
-
 <!--
 **kimi12311/kimi12311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
