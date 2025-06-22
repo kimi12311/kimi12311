@@ -2,10 +2,6 @@
 
 💻 Full Stack .NET Developer: **.NET (C#) | ASP.NET (HTML CSS) | IBM Mainframe | Azure**
 
-📱 You can reach me through my [LinkedIn](https://www.linkedin.com/in/kimi-andersson-bb1118263/)
-
-🔭 I'm currently working on building full stack applications using .NET + Blazor
-
 💬 Ask me about any of my repositories if you'd like
 
 <!--
